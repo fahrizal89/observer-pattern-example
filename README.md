@@ -14,11 +14,11 @@ Parameters:
 
 Output:
 ```
-Sels
+Sales
 Income: 33000
 Expenditure: 9000
 
-Conclusion: 24000
+Profit: 24000
 ```
 
 Parameters:
@@ -28,9 +28,9 @@ Parameters:
 
 Output:
 ```
-Sels
+Sales
 Income: 10000
 Expenditure: 5000
 
-Conclusion: 5000
+Profit: 5000
 ```
