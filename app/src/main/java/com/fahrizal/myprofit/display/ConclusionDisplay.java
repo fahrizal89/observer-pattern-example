@@ -25,7 +25,7 @@ public class ConclusionDisplay implements Observer, DisplayElement {
 
     @Override
     public void display() {
-        textView.setText("Conclusion : " + conclusion);
+        textView.setText("Profit : " + conclusion);
     }
 
     @Override

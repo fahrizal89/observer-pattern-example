@@ -28,7 +28,7 @@ public class PureDisplay implements Observer, DisplayElement {
     @Override
     public void display() {
         textView
-            .setText("Sels\nIncome : " + income + "\nExpenditure :" + expenditure);
+            .setText("Sales\nIncome : " + income + "\nExpenditure :" + expenditure);
     }
 
     @Override
